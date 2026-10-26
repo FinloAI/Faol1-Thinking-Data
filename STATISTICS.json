@@ -1,0 +1,59 @@
+{
+  "dataset": "Faol1 Thinking Historical Structured Reasoning",
+  "version": "0.1.0",
+  "date": "2026-10-26",
+  "rows": 828,
+  "language_pairs": 414,
+  "languages": {
+    "en": 414,
+    "fi": 414
+  },
+  "families": {
+    "allocation": 68,
+    "graph_capacity": 74,
+    "inventory_audit": 64,
+    "weighted_mean": 64,
+    "nested_code": 70,
+    "set_constraints": 70,
+    "schedule": 70,
+    "counter_debug": 64,
+    "ecology_energy": 110,
+    "propositional_sequent": 64,
+    "science_arc": 110
+  },
+  "source_kinds": {
+    "project_generated_problem": 718,
+    "adapted_public_dataset_question": 110
+  },
+  "declared_license": "CC-BY-SA-4.0",
+  "split_counts": {
+    "train": 828
+  },
+  "numbered_candidate_before_source_reconciliation": 922,
+  "excluded_pending_source_reconciliation": 94,
+  "teacher_labels_as_recorded": {
+    "gpt-6-luna": 828,
+    "gemma4:e2b + gpt-6-luna editor": 6,
+    "hf.co/unsloth/Qwen3.5-4B-GGUF:UD-Q4_K_XL + gpt-6-luna editor": 1,
+    "deepseek-flash + gpt-6-luna editor": 92,
+    "gpt-6-luna + executable source oracle": 87
+  },
+  "exact_duplicate_rows": 0,
+  "generic_check_phrase_rows": 0,
+  "models_loaded": false,
+  "tokens": {
+    "tokenizer": "LumiOpen/Llama-Poro-2-8B-Long-Instruct, frozen local tokenizer JSON",
+    "tokenizer_json_sha256": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+    "tokenizer_config_sha256": "7f6d3690cd022f741a9c3bd017cb33695e68f2ddbae2136ac11e2fc9878388bd",
+    "method": "Original BPE and chat-template Jinja. Independently matched plain three-role native serialization; no model loaded.",
+    "counts": {
+      "full_native_chat_tokens": 1735927,
+      "assistant_content_tokens_excluding_native_header_and_EOS": 1178900,
+      "teaching_text_tokens_excluding_think_tags": 956606,
+      "min_native_chat_tokens": 808,
+      "max_native_chat_tokens": 4327,
+      "rows_over_4096": 4
+    },
+    "target_count_note": "Assistant content encoding is not asserted equal to an exact training loss-mask target count, and excludes native header/EOS."
+  }
+}

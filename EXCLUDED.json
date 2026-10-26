@@ -1,0 +1,477 @@
+{
+  "scope": "94 rows from the previously inspected 922-row numbered-stage candidate. No question or answer text from excluded rows is published.",
+  "original_numbered_candidate_rows": 922,
+  "published_rows": 828,
+  "excluded_rows": [
+    {
+      "original_training_line": 835,
+      "record_sha256": "af35cec401ccb23869fdceced5a1eb79abc53a8840111d3ee24b5c6d302ee9c8",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 836,
+      "record_sha256": "4bc1e6812aa30fd22a32d8657406ccb826e2fc2bd9069c18affa5944b29f51de",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 837,
+      "record_sha256": "9bfedc2d0b56e065c0812fdf6db61664e0079e8b3d672d116368f1f80cb80791",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 838,
+      "record_sha256": "c718f3a282713b27e6dff0fe43e912f3cb467eff3f6ee5a056ffa3f7defa1597",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 839,
+      "record_sha256": "3a7b8cd478f270a96460ed88cdd086cfb9ea591a5e7c9ed4dc84770b6b6297ce",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 840,
+      "record_sha256": "013d57a1c9f60d9fb314f5a40b2e5a03c108292d4b2e3a6b8b37b766d830afb5",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 841,
+      "record_sha256": "0cdee1d1cdec5fb4b5199dc3e97be619a531faee6c39f6f257c767d224dde0e5",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 842,
+      "record_sha256": "d2539a190452c040af598e6f43621db415deedb91f4a5b3478ef86b8a1ddb5f8",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 843,
+      "record_sha256": "13757461eb0648c81bce92e4f77bb2b887e5b2c6cd3b7055bb2f2b988494c79f",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 844,
+      "record_sha256": "41c2515d059cecda7f1bf3fcceab196098172cb9de6954dcafecd1108ba76044",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 845,
+      "record_sha256": "18055de17aad27bb69df29f32123cca4e5b17b29715abadb03be53f5fadf0915",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 846,
+      "record_sha256": "15204658057724da06bf939f05c579cd74d8d26850846742f2b183586b0012ba",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 847,
+      "record_sha256": "fca6296ca81327da573890bd05f45a93a6d734225a3a615b6eb79473f307e8e5",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 848,
+      "record_sha256": "c32552a65fafd6ba817cd09574f5684a63e99bd119ce96729d136ad3a0faf5a9",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 849,
+      "record_sha256": "49189943eb9f70c1f5d670767abe307ed169ef268fcb94eed9654788d7801ea4",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 850,
+      "record_sha256": "3779020098c6ee77eade491bd73b6a701aa4d819027d121043079b0f1987c4b8",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 851,
+      "record_sha256": "fd187a10fb5609f4b02627973e38c59d57bfaeff4e5cd37a61df781f64f5c958",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 852,
+      "record_sha256": "ec367e5a5f18526adfec3e5ab7ce78e9e89ac4c79a60134d9a8dd671b79793e7",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 853,
+      "record_sha256": "6376a2c287fa378147a1088cac525ff889f27a382a2ca8e1b19c1309874e036f",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 854,
+      "record_sha256": "606452d12d1859d8970fdc69efe2a71fcb1433c2034c358582d557200a509660",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 855,
+      "record_sha256": "6469b4989269eb29b0d023b98f3e9b77dd2b2abdb51ef931cd6ecd513bbb8499",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 856,
+      "record_sha256": "3b0c02b28d16f5e683d83eb0c462a6de5e9b0da599da3b736e6757ec502f3b0e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 857,
+      "record_sha256": "224b74d528fe53dc3533e45bb5e74ea3a709d8dde9d49e956e0d02ae534f16cb",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 858,
+      "record_sha256": "63b7539526c6344ec860e1509891d2f75ba4cd5fb371f6a63cd251a092d00a73",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 859,
+      "record_sha256": "47449d3b71fa6a538c41a433a300d6250a5bd3f8a7f796ba09ddfd13cb9426db",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 860,
+      "record_sha256": "cfac15c91b3e684a17d381d50563e49d1538a29dc7dc6b7845beb36ab35850f4",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 861,
+      "record_sha256": "1cc8a1256a68760c0a2be5529775952682d5a4c1a3fdd55731231547f7a1d7a7",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 862,
+      "record_sha256": "d929c8d232332b39229820e3598afb109f1dbbbb66a4b9d8b009f45e0033bb6c",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1181,
+      "record_sha256": "15b0bd1a5570c5919f48588aef9a62e0a5ec6a0984fc90b80ee93c629ab2ca21",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1182,
+      "record_sha256": "059b09a15d59cc81a1a9274b04d8d93b8c72a6a77e86c74adf8910c356553bec",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1183,
+      "record_sha256": "d6f15fe0ed491f7c60a9b4ff8cafb0d165aa35ee43e59c3a024934a83ffec5a7",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1184,
+      "record_sha256": "26469cb02f8ee6c1bf719ce5d8d6fdb6e97b8e4983f23a4abcb881907b8374af",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1185,
+      "record_sha256": "e154cf8913cc8dfc9e9195ff47f9b6e1ae07d9ca173ec3b477033d4ff04eb527",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1186,
+      "record_sha256": "f1a2471f9dd6c211ab83c95ae059294465cff5771c3f0e34ff19e732c207c064",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1187,
+      "record_sha256": "a12033059ac300778aea5ba7e6771b662a6dff8aa32c0d9569dc27aa70b81aec",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1188,
+      "record_sha256": "5857ab7dac9db91478ef29362d34c4482898f2a88483b6fd3eafdd9b9e836cea",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1189,
+      "record_sha256": "e5ac40082b0a0cde5acb44991f576d992010f0ff5c0f47fdce4401eed5c5aac1",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1190,
+      "record_sha256": "98719934a5544bc94d35c8169278c55333af5b5a0728635f50c97019edb95ec4",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1191,
+      "record_sha256": "b664884f6a1fece288d6e83dcde71e865c79edd36d4781b7d3b8d226d40bd39c",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1192,
+      "record_sha256": "4f2857cfb6e4772d79ef94cddba19bfd73a3fe208f20854717c25679ba37498c",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1193,
+      "record_sha256": "b4505f8cd032341984971539d767236afa84fede89949867edbe0b2ca3f0ffbe",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1194,
+      "record_sha256": "64182bd7aff5f73c3a1106c18e446b7a229751eff55b47573d7cb1f21bc8beb1",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1195,
+      "record_sha256": "ec5a82b5ad3653a623185b28266b5b8eac52a0deabc7e8e33d86e22b0259b5eb",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1196,
+      "record_sha256": "97143a124ee68872b19187a58aa946d55102ddbebc70b40394d1bc45ca6810c8",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1197,
+      "record_sha256": "f5560c9aa0d9ae91c364efe31ee50fd78d2d8aa0ab74e21ef066ecf27bc03a23",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1198,
+      "record_sha256": "ba7f1332c6abcb04539f73f82e57025f4038ca29bc9707b4604f98ab53f362c4",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1199,
+      "record_sha256": "017de56b6cd2b39aab5992ec6264333966bea5445aa4dd05368a97a341cf2488",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1200,
+      "record_sha256": "f8f37107b8b03e3cbf14b62c9e92dc99c5ca3189150268e8cab817feaefa40ed",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1201,
+      "record_sha256": "6eb0dd228ad2324740ebf2d6e3276a558920802be15f66865504916f0a664a94",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1202,
+      "record_sha256": "73edd93685ec0626be6193bec799d0c83f2e8cb8f39a2118f1bd0d1dec0bb2d5",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1203,
+      "record_sha256": "f414aea73e6498ce92a9da555aa549da0a20bc874b52706919a270b3b4b48a37",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1204,
+      "record_sha256": "f0f831be710e0ce841b78e3f71ee3d9eeed372436a0122291505336ea3371e50",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1205,
+      "record_sha256": "bc8a2fb69420c6da3d979feaa9324fe3d081ee95957eff12b47a6a3a08129eda",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1206,
+      "record_sha256": "ad09717f3788d0210cd9645209904328c6b83a4ab55bd6711cec57d12ec5131e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1207,
+      "record_sha256": "4a1b9cc9bf3c4d0f9b0b2aaaa7ba8ff99dc5a55035082cc6db9e361262616ad3",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1208,
+      "record_sha256": "12376dd68c107fc84626800244c17c44fb526c18a98d39ee914f793d8127068d",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1209,
+      "record_sha256": "47b798ac3e37a490f7a3c9231be6bf98de2cf4f1de51e8e62c4bccc77aa406ff",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1210,
+      "record_sha256": "e98ea77bef47a343a8af10ff8c5dfacdc82b80527518c9fa604524315b81f006",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1211,
+      "record_sha256": "13b96232fe29c50c17434d0837b7ffbd8ec6e908f96ff99416b3dfbd6f018884",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1212,
+      "record_sha256": "6068a3e7e9eaae0eff9bea89ec6ce99b047c829fa9459240d3d345aea43ba0ae",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1213,
+      "record_sha256": "09f85ddf070e909790d76b3167adc69fe935c2c757509af43e991ba1c9725130",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1214,
+      "record_sha256": "fa7977b9c36fd7bc02ff360b13ce2cb5591c59064d2cfdc55db397af05d611fa",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1215,
+      "record_sha256": "dd7ecb7131df1079a85fe81a004789a3e6b29fb9fd3cf6ef964d3964a4277bad",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1216,
+      "record_sha256": "d19a26625495f72262cc835cccb3f70aea6808f0983789f3adce1c5d200c9757",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1217,
+      "record_sha256": "e6d96cd2560c6bf261e26b4915bef92ad68bca8ab34dacca2216b7aeca761e99",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1218,
+      "record_sha256": "b57adae98b2ead0666b0635723d8646a072359d43f25e21411baea6929e2256e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1219,
+      "record_sha256": "f38684884cce4b793619d3506f61be2b1446f6586704f8479fa8eb9437709d4b",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1220,
+      "record_sha256": "dc237296d81c5f71b1ce5c7e29dce64f0f5831d705b43169f213e9e199f8f9bb",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1221,
+      "record_sha256": "ea5e0d515542eb558ed55ae5a0aefe5eec56aefd56c50225da18afd6e4c00577",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1222,
+      "record_sha256": "0d81e0747477bb509a492c08d4da31e6fb7d772d4aab9b9be90ba600ae1ebc7e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1223,
+      "record_sha256": "de06a05a0c71ae0046e1140459dce5151037664db54c16e0c6898d0eee962c5a",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1224,
+      "record_sha256": "69236a5383ac88ca0e84c70440b8b3ba2f1119c9ee3344b15bdcf23005240db4",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1225,
+      "record_sha256": "313f3360cdaa9f42b724429045d757d2e7765383f94b827c2a9f9a0570b1fdee",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1226,
+      "record_sha256": "025d5bdc9d322ad989bfd2adae15d44971447a5ed799672a6f4d068fccecb3be",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1227,
+      "record_sha256": "d4a2f6665fa227f738a71a9ab09edd9044980905683c935951d40ca430c6358b",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1228,
+      "record_sha256": "7dfd4d37afff1beebcc9fe4a9bd697b7713f36f1c14686fe206467519a6fcdf9",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1229,
+      "record_sha256": "705169bdb4f14d9ffecb3361264be3273dbd4b114f766eddd9abb80794f5e625",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1230,
+      "record_sha256": "fde38ec873843fc0485d717fec6b40c7212110d4ecb2b247d08da385eaf7e640",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1231,
+      "record_sha256": "f28e4dfbcfe81d70c1c20e82f0ebc2308da96762aa6a4fd830f506522a248b12",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1232,
+      "record_sha256": "58801b5630e72bfac5e80d7ce41e0173710e04baf26ecf7d7f8684de25fa1f3d",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1233,
+      "record_sha256": "36cb25baeafed6783f391855da9d61b462fd3ebf13fcc98008b188f854ec3747",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1234,
+      "record_sha256": "dd7bde607b5ba9765de787adcb8034a0ea80e6a55494214b7e7cbbc53ff37814",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1235,
+      "record_sha256": "d781ab14df8d920895844fa50b8b6bb8dd59a0a471caa5d8bb2db9bedf61ed92",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1236,
+      "record_sha256": "eea8438e72c0c0529f0a4cbb5c386645f4938f2fae6a3b524621b040b286c41d",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1237,
+      "record_sha256": "06ee55eceaba9e43c4dd2063b045b2252ff65b0fed53513db1546b8572e0a101",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1238,
+      "record_sha256": "132d9255e06ae485f9da32f7e5b68807340cd475ad4c821e05c5a8b2fa76f302",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1239,
+      "record_sha256": "6e43ddb61ffd8f57d62e77f890f3820e96dca1064dbd1e2f6af3a46c07cc1d7b",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1240,
+      "record_sha256": "69b1fb9681490c3d9c0a7d05fd59f0bd2ff90b789909cfafd10a32de01f87a6a",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1241,
+      "record_sha256": "5068de538876eb29f168d218a072e8b26df81c650423ac125e948afa2d812b31",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1242,
+      "record_sha256": "597d739c40f7cab0fad0608f63ed9b4f98a9cb7a60c595c893629bd39c4a6218",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1243,
+      "record_sha256": "84c5af02d7ff4fe7d42da78eb602fa7d2f280aa0b14c4d8312dd1036459a8a71",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1244,
+      "record_sha256": "a927d940fc0f9f7768f40b7f88b2cd82a23a12e45d8e4a5720d5c2cb9ae26b4c",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1247,
+      "record_sha256": "871f63f60e8736972355f495aefa3b9b6cfa02f62d38ee256302c15c9bd8170e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    },
+    {
+      "original_training_line": 1248,
+      "record_sha256": "6286e737119dc474342e72df6c1ac029a859d6e3b514e35a895c3bd9e01a220e",
+      "reason": "Source/public-reply attribution not reconciled for this first release."
+    }
+  ]
+}

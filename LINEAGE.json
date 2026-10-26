@@ -1,0 +1,11 @@
+{
+  "origin": "Faol1 frozen historical data snapshot 1790940542",
+  "original_train_file_sha256": "f951da4abf6575507a9d78a591b6a978e4a5a63b380f0c4519cd54b9bbcd6065",
+  "original_provenance_file_sha256": "52d98798a58718730359b84866367c91531dfcdf9fe5207bab44844db8b79043",
+  "record_fingerprint": "SHA256 of UTF-8 json.dumps(row, ensure_ascii=False, sort_keys=True, separators=(comma,colon))",
+  "messages_modified": false,
+  "serialization_change": "JSON outer whitespace compacted; every message role and content string retained exactly.",
+  "selection": "Plain system/user/assistant records with one nonempty leading think block, nonempty following public answer, and numbered stage marker. Then require exact source-question match, train parent, and source-resolved project-generated or ARC train provenance.",
+  "benchmark_and_holdout_data_exported": false,
+  "raw_teacher_receipts_or_private_local_paths_exported": false
+}

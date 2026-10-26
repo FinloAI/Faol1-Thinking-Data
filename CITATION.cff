@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this historical dataset, please cite this repository and acknowledge ARC where applicable."
+type: dataset
+title: "Faol1 Thinking Historical Structured Reasoning"
+version: 0.1.0
+date-released: 2026-10-26
+authors:
+  - name: FinlaiLab
+repository-code: "https://github.com/FinloAI/Faol1-Thinking-Data"
+license: CC-BY-SA-4.0
+
